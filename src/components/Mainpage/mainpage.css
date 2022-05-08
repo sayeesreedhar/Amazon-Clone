@@ -1,0 +1,18 @@
+#poster{
+    padding-top: 60px;
+  
+}
+
+  #test{
+      z-index: -5;
+  }
+  
+  .item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px;
+  }
+  body{
+      background-color: #EAEDED;
+  }

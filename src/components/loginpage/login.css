@@ -1,0 +1,91 @@
+.login_logo{
+    width:15vw;
+    height:25vh;
+    margin-left: 10vw;
+    margin-top: -7vh;
+}
+.login_space{
+    text-align: center;
+    margin-top: -7vh;
+    padding: 5vh;
+    border: 1px rgb(192, 190, 190) solid ;
+    background: white;
+    width: 25vw;
+    height: 45vh;
+    margin-left: 5vw;
+    border-radius: 3px;
+}
+.amazonsigns{
+    font-size: 4vh;
+    font-weight: 600;
+    margin-top: -3vh;
+    margin-left: -15vw;
+}
+.email{
+    font-size: 1.8vh;
+    font-weight: bold;
+    padding-top: 2vh;
+    
+    text-align: left;
+}
+.login_field{
+    width: 20vw;
+    margin-left: -1vw;
+    border: 1px rgb(192, 190, 190) solid ;
+    border-radius: 3px;
+
+}
+.login_but{
+    padding-top: 1vh;
+}
+#login_button{
+    width: 20vw;
+    height: 5vh;
+    margin-left: -1vw;
+    background-color: yellow;
+    text-align: left;
+    text-decoration: none;
+}
+.login_separator{
+margin-left: 1vw;
+}
+.sep{
+    margin-left: 4vw;
+    color: rgb(124, 124, 124);
+    padding-top: 3vh;
+}
+#login_facebooktext{
+    background-color: rgb(206, 206, 206);
+    margin-top:2vh ;
+    margin-left: 10vw;
+}
+.amazonsignss{
+    text-align: left;
+    font-size: 4vh;
+    font-weight: 600;
+}
+.login_spaces{
+    text-align: center;
+    margin-top: -7vh;
+    padding: 5vh;
+    border: 1px rgb(192, 190, 190) solid ;
+    background: white;
+    width: 25vw;
+    height: 65vh;
+    margin-left: 5vw;
+    border-radius: 3px;
+
+}
+#login_facebooktexts{
+    width: 20vw;
+    height: 5vh;
+     background-color: rgb(206, 206, 206);
+}
+.login_signupspaces{
+    margin-left: 8vw;
+}
+.infolog{
+    color: red;
+    font-size: 2vh;
+    font-weight: 600;
+}

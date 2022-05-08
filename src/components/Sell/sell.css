@@ -1,0 +1,47 @@
+.sell_spaces{
+    margin-top: 5vh;
+    margin-left: 5vw;
+    background-color: white;
+    width:90vw;
+    
+}
+.amazonsignss{
+    margin-left: 2vw;
+    
+}
+.login_rowssell{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 2vw;
+}
+.login_fields{
+   
+    width: 20vw;
+    border:1px rgb(175, 175, 175) solid;
+    border-radius: 2px;
+    
+}
+.emails{
+    
+    padding-left: 5vw;
+    padding-top: 5vh;
+    font-size: 1.8vh;
+    font-weight: 500;
+}
+.lastpart{
+   text-align: center;
+   padding-top: 5vh;
+   font-size: 1.8vh;
+   font-weight: 500;
+  
+   padding-bottom: 5vh;
+}
+.sellblank{
+    margin-top: 3vh;
+    margin-left: 5vw;
+    width: 90vw;
+    height:10vh;
+    background-color: white;
+    margin-bottom: 3vh;
+    
+}

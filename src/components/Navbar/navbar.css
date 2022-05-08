@@ -1,0 +1,164 @@
+
+
+.logo {
+	margin-top: 15px;
+    padding: 3px;
+    margin-left: 15px;
+	height: 35px;
+   
+}
+.logo:hover{
+    cursor: pointer;
+    
+}
+.logopos{
+    position: fixed;
+    
+    background-color: #131a22;
+    width: 100vw;
+    height: 60px;
+    display: flex;
+    z-index: 2;
+}
+.locations{
+    background: url('https://ik.imagekit.io/javaprojects/sprite_350x_PNj8WMC83.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646837470187') no-repeat -70px -378px;
+	width: 16px;
+	height: 18px;
+    
+}
+.locationadjust{
+    padding-left: 20px;
+    padding-top: 20px;
+    display: flex;
+}
+.place{
+    color: white;
+    font-weight: bold;
+    padding-left: 5px;
+    font-size: 15px;
+}
+.searchfield{
+   
+   height: 39px;
+  width: 670px;
+   padding-left: 60px;
+   
+    
+}
+.search{
+    padding-left: 70px;
+    height: 50px;
+}
+.options{
+    margin-top: 10px;
+    padding-left:10px;
+   height: 39px;
+   border-top-left-radius:6px;
+   border-bottom-left-radius:6px;
+   background-color: azure;
+   width:50px;
+   font-size: 13px;
+}
+
+.searchlogo{
+    background-color: #FEBE68;
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    height: 39px;
+    width:40px;
+    border-top-right-radius:6px;
+   border-bottom-right-radius:6px;
+   padding:9px ;
+}
+    .searchicons{
+        background: url('https://ik.imagekit.io/javaprojects/amazon-image/amazon-image/sprite_350x_KYt6EHz0h.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646887548940') no-repeat -9px -289px;
+	width: 23px;
+	height: 23px;
+   
+    }
+    .up{
+        color:white;
+        padding-left: 60px;
+        padding-top: 9px;
+        font-size: 13px;
+    font-weight: 600;}
+    .down{
+        
+        font-size: 15px;
+        font-weight: 700;
+    }
+    
+    .cartlogo{
+        background: url('https://ik.imagekit.io/javaprojects/amazon-image/amazon-image/sprite_350x_KYt6EHz0h.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646887548940') no-repeat -9px -339px;
+	width: 40px;
+	height: 28px;
+    margin-left: -28px;
+    margin-top: 20px;
+    
+    }
+    .cartcount{
+        color: #FEBE68;
+        margin-left: 55px;
+        margin-top: 5px;
+        font-size: 20px;
+    }
+    .cart{
+        color: white;
+        font-size: 15px;
+        font-weight: 700;
+        margin-left: 40px;
+        padding-top: 9px;
+        
+
+    }
+    .submenu{
+        
+        padding-bottom: 10px;
+        display: flex;
+        background-color: #22303E;
+        font-weight: 450;
+        font-size: 15px;
+        
+        
+    }
+    .submenus{
+        padding-top: 9vh;
+        text-decoration: none;
+        display: flex;
+        background-color: #22303E;
+        color: white;
+        font-weight: 500;
+       
+        
+    }
+    .submenuopts{
+        margin-left: 15px;
+        text-decoration: none;
+        color: white;
+        
+    }
+    .opticon{
+        background: url('https://ik.imagekit.io/javaprojects/amazon-image/amazon-image/sprite_350x_KYt6EHz0h.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646887548940') no-repeat -135px -254px;
+	width: 22px;
+	height: 20px;
+    margin-top: 3px;
+    
+    margin-right: 5px;
+    }
+    #logout{
+        background-color:#FEBE68;
+        width: auto;
+        height: 3vh;
+        margin-left: 40vw;
+        margin-top: 0.5vh;
+        
+    }
+    .sells{
+        text-decoration: none;
+        color: white;
+
+    }
+    .carts{
+        text-decoration: none;
+    }

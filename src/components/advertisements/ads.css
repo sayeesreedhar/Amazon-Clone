@@ -1,0 +1,69 @@
+.ads{
+  margin-top: -200px;
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  color: black;
+  
+    
+}
+.ad4{
+  width:450px;
+  height:450px;
+  background-color: white;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.adr{
+  width:91vw;
+  height:250px;
+  background-color: white;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  display: flex;
+  
+}
+
+.topad{
+  padding: 20px;
+  font-size: 23px;
+  font-weight: 700;
+  text-align: center;
+}
+.midad{
+  display: flex;
+  flex-wrap: wrap;
+  
+  justify-content: center;
+}
+.midadr{
+  display: flex;
+  overflow: hidden;
+}
+.ad4img{
+  width:180px;
+  height: 180px;
+  padding: 10px;
+}
+.adrimg{
+  width:200px;
+  height: 200px;
+  padding: 20px;
+}
+.ad1img{
+  width:350px;
+  height: 350px;
+  padding: 10px;
+}
+.botad{
+  text-align: left;
+  justify-content: left;
+  margin-left: 0px;
+font-size: 15px;
+  color:rgb(59, 146, 218)
+}

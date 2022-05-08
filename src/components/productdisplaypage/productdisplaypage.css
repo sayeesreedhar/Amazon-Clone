@@ -1,0 +1,122 @@
+.productimg{
+    padding-left: 5vw;
+    padding-top: 50px;
+    width: 33vw;
+    height: auto;
+    margin-left: 30px;
+    padding-right: 2vw;
+}
+.producttitle{
+    padding-top:50px ;
+    font-size: 25px;
+    font-weight: 500;
+    border-bottom: rgb(196, 192, 192) 1px solid;
+    width: 25vw;
+}
+.productsite{
+    font-size: 15px;
+    color:rgb(5, 165, 152);
+    padding-top:3px ;
+    padding-bottom: 3px;
+    font-weight: 500;
+}
+.productprice{
+    color:rgb(145, 141, 141);
+    font-size: 15px;
+    display: flex;
+    
+}
+.productprices{
+    color:brown;
+    font-size: 20px;
+    display: flex;
+    padding-left: 10px;
+}
+.tax{
+    color: black;
+    padding-left: 25px;
+}
+.emi{
+    display:flex;
+    font-size: 15px;
+    font-weight: 500;
+}
+.save{
+    color:brown;
+    border:rgb(196, 192, 192) 1px solid ;
+    display: flex;
+    padding: 10px;
+    width: 25vw;
+    font-weight: bold;
+    
+}
+.saves{
+    color:black;
+    font-weight: 400;
+}
+.pricecard{
+    padding-top: 10px;
+    width:260px;
+    height: 420px;
+    border:rgb(196, 192, 192) 1px solid ;
+    padding-left: 7px;
+    margin-top: 50px;
+    margin-left: -5vw;
+   
+}
+#color{
+    color: red;
+}
+.producttitles{
+   
+    font-weight: 500;
+}
+.productsites{
+    font-size: 20px;
+    color: brown;
+}
+.productprices{
+    font-size: 15px;
+    padding: 2px;
+    color:rgb(5, 165, 152);
+    font-weight: 500;
+}
+.productpriceis{
+    color: black;
+    padding-left: 3px;
+}
+.taxes{
+    padding: 0px;
+    font-size: 15px;
+    color:rgb(5, 165, 152);
+    font-weight: 500;
+}
+.saves{
+    display:flex ;
+    padding: 2px;
+    font-size: 15px;
+}
+#but{
+    text-align: center;
+    background-color:#fef468 ;
+    margin-bottom: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+}
+#but1{
+    text-align: center;
+    background-color:#FEBE68 ;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom: 10px;
+}
+.stocksi{
+  margin-left: -10vw;
+    width: 5vw;
+    color: black;
+}

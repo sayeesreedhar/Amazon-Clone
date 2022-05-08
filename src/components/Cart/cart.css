@@ -1,0 +1,174 @@
+body{
+    background-color: #EAEDED;
+}
+.cartcard{
+    background-color: white;
+    width:70vw;
+    height:auto;
+    margin-left: 30px;
+    margin-top: 4vh;
+    margin-bottom: 30px;
+    padding: 1vw;
+   
+}
+.shoppingcart{
+    font-size: 30px;
+    font-weight: 500;
+    
+    
+    
+    
+}
+.priceinfo{
+    display: flex;
+}
+.titlecart{
+    display: flex;
+    border-bottom:  #c7c9c9 1px solid;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.price{
+    font-size: 1vw;
+    margin-left: 43vw;
+    margin-top: 4vh;
+   
+}
+.contents{
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 35vw;
+   
+}
+.imgs{
+    padding-top: 1vh;
+    width:7vw;
+    height: auto;
+    
+}
+.tils{
+    font-size: 20px;
+    padding-left: 15px;
+    width:24vw;
+    
+}
+.stock{
+    font-size: 13px;
+    color: green;
+    font-weight: 500;
+    padding-right: 16vw;
+ 
+    }
+.stocks{
+    font-size: 13px;
+    padding-right: 9vw;
+    display: flex;
+    
+}
+.rate{
+   margin-left: 52vw;
+   margin-top: -15vh;
+   font-size: 1.2vw;
+   font-weight: 500;
+}
+.stocksi{
+    font-size: 13px;
+    width: 600px;
+    padding-left:8vw;
+    
+}
+.lists{
+    display: flex;
+    font-size: 13px;
+    
+}
+.qt{
+    padding-right: 2vw;
+    font-size: 13px;
+    font-weight: 500;
+    color: black;
+}
+.qts{
+    padding-right: 2vw;
+    font-size: 13px;
+    color:rgb(12, 160, 135);
+}
+.gift{
+    font-size: 13px;
+    display: flex;
+    padding: 1vw;
+}
+.learn{
+    padding-left: 1vw;
+    color:rgb(12, 160, 135);
+    font-weight: 500
+}
+.subtotals{
+    margin-top: 1vw;
+    border-top:  #c7c9c9 1px solid;
+    width: 60vw;
+    padding-right: 1vw;
+    padding-left: 47vw;
+    font-size: 1.25vw;
+    font-weight: 500;
+}
+.disclaimer{
+    font-size: 0.8vw;
+    padding-left: 1.8vw;
+    width:70vw;
+    margin-top: 2vh;
+}
+.blank{
+    width:70vw;
+    height: 10vh;
+   margin-left: 1.8vw;
+   padding-bottom: 1vh;
+    background-color: white;
+}
+.cartright{
+    margin-top: 4vh;
+    width:22vw;
+    height:40vh;
+    background-color: white;
+    padding-left:1vw;
+}
+.eligible{
+    font-size: 1.7vh;
+    padding-top: 1.6vw;
+    padding-left: 1.6vw;
+    color: green;
+    font-weight: 500;
+}
+.eligibles{
+    
+    font-size: 1.7vh;
+    padding-left: 1.6vw;
+    
+    color: black;
+    font-weight: 500;
+    display: flex;
+
+}
+.det{
+    padding-left: 0.4vw;
+    color: rgb(0, 174, 255);
+}
+.subtotalssss{
+    padding-top: 1.6vw;
+    padding-left: 1.6vw;
+    font-size: 1.5vw;
+    font-weight: 500;
+    
+}
+.giftsss{
+    padding: 0.5vw;
+    font-weight: 500;
+}
+.cartbut{
+    text-align: center;
+    padding-top: 1vh;
+    background-color: yellow;
+    width: 20vw;
+    height: 6.2vh;
+    border-radius: 10px;
+}
